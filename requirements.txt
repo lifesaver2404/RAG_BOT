@@ -1,0 +1,24 @@
+# Core GUI Framework
+PySide6
+
+# Document Analysis and PDF Extraction
+pymupdf
+
+# Vector Search and Indexing
+faiss-cpu
+sentence-transformers
+numpy
+
+# Language Model Inference
+llama-cpp-python
+
+# Information Retrieval and Search
+rank_bm25
+duckduckgo-search
+
+# Speech-to-Text / Transcription
+faster-whisper
+
+# Data Visualization and Analysis
+matplotlib
+scikit-learn
